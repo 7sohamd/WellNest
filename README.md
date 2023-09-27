@@ -36,6 +36,7 @@ To use WellNest effectively, follow these steps:
 ## Contribution and Development
 
 If you'd like to contribute or develop the WellNest platform further, feel free to reach out to the creators, Amrit Bhattacharya and Soham Dey, for collaboration and discussions.
+Or you can directly raise issues and we will assign you the same to work upon.
 
 ## Feedback and Support
 
